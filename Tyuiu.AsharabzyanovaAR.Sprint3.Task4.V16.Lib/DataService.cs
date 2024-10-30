@@ -10,7 +10,7 @@ namespace Tyuiu.AsharabzyanovaAR.Sprint3.Task4.V16.Lib
             {
                 if (x == 0)
                 {
-                    break;
+                    continue;
                 }
                 else
                 {
